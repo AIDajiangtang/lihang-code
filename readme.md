@@ -67,9 +67,5 @@ https://blog.csdn.net/tudaodiaozhale
 
 https://github.com/hktxt/Learn-Statistical-Learning-Method
 
-代码整理和修改：机器学习初学者（公众号） ![gongzhong](images/gongzhong.jpg)
-
-
-知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
-
-[知乎](https://www.zhihu.com/people/fengdu78)
+微信公众号：**人工智能大讲堂**  
+<img width="180" src="https://user-images.githubusercontent.com/18625471/228743333-77abe467-2385-476d-86a2-e232c6482291.jpg">  
